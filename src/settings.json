@@ -1,0 +1,8 @@
+[
+    { 
+        "BaseApiEndpoint": "https://localhost:44343",
+        "DeveloperDemoEndpoint": "https://developer-demo.australiaeast.cloudapp.azure.com",
+        "JwtToken": "4Sptu8iuXbrucAHRRrQQY+ppRWA="
+    }
+
+]
